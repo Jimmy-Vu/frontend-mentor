@@ -29,6 +29,7 @@ main {
 
     width: 100%;
     padding: 1rem;
+    margin-bottom: 1rem;
   }
 
   &__img {
@@ -43,7 +44,7 @@ main {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    max-width: 90%;
+    max-width: 80%;
     font-family: 'Roboto', sans-serif;
   }
 
